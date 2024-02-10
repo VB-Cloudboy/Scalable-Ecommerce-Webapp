@@ -1,4 +1,4 @@
-# Scalable E-Commerce Web App with Azure Functions and Web Apps
+# E-Commerce Web Application with Azure Functions & Web Apps
 
 <p align="center">
   <img alt="Banner" src="images/banner.jpg" />
